@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2018-03-01
+img: building.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: March 2018
+category: NLP
+description: Twitter has become a prominent tool for political communication. Using data provided by <a href="www.trumptwitterarchive.com/archive"> Trump Twitter Archive</a> and all of the documents published by Executive Office of the President by the Federal Register, this project uses Cosine Similarity to determine if the President's tweets are similar to offical presidental actions.
 
 ---

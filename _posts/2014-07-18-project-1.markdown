@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2018-03-01
-img: building.png
+img: building_icon.png
 alt: image-alt
 project-date: March 2018
 category: NLP
-description: Twitter has become a prominent tool for political communication. Using data provided by <a href="www.trumptwitterarchive.com/archive"> Trump Twitter Archive</a> and all of the documents published by Executive Office of the President by the Federal Register, this project uses Cosine Similarity to determine if the President's tweets are similar to offical presidental actions.
+description: Twitter has become a prominent tool for political communication. Using data provided by Trump Twitter Archive and all of the documents published by Executive Office of the President by the Federal Register, this project uses Cosine Similarity to determine if the President's tweets are similar to offical presidental actions.
 
 ---
